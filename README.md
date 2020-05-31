@@ -5,7 +5,7 @@ I track my tasks in a spreadsheet with manually entering dates and tasks everyda
 This app is designed to model the spreadsheet design I use as I couldn't find any
 apps in App Store doing this.
 
-##App Design
+## App Design
 
 Initial Design:
 - [ ] Date picker to select date. Beginner friendly and simple design,
@@ -15,9 +15,9 @@ Initial Design:
 - [ ] Cloud backed database can replace UserDefaults later
 - [ ] Interesting idea: Can nearby Apple devices update themselves using Core Bluetooth?
 
-##License
+## License
 This is MIT licensed
 
-##Contribution
+## Contribution
 
 Feel free to look inti the code and add ideas/implementations. Feel free to raise PR if you like the ideas and want to extend it
