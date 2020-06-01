@@ -8,8 +8,8 @@ apps in App Store doing this.
 ## App Design
 
 Initial Design:
-- [ ] Date picker to select date. Beginner friendly and simple design,
-- [ ] Table View for adding and deleting tasks
+- [X] Date picker to select date. Beginner friendly and simple design,
+- [X] Table View for adding and deleting tasks
 - [ ] Selecting a task should lead to sub tasks
 - [ ] For now, UserDefaults is used as a database for MVP reasons. 
 - [ ] Cloud backed database can replace UserDefaults later
